@@ -3,9 +3,8 @@
 <h3 align="center">I'm_a_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_a_Focus_On_Scalability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
-- 🔭 I’m currently started from Here_You_Go!!   (www.linkedin.com/in/sairabatool123)
+- 🔭 I’m currently started from Here_You_Go!!   (www.linkedin.com/in/sairabatool123) <br>
 - 👨‍💻 All of my task are available at   (www.linkedin.com/in/sairabatool123)
-
 ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/istockphoto-1502289545-612x612.jpg)
 - 💬 Ask me about **html5 | CSS3 | Bootstrap**
 
