@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p>
 
-<p align="center" >Thanks! ❤️</p>
+<h1 align="center" >Thanks! ❤️</h1>
 
 
