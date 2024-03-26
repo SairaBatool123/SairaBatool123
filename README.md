@@ -6,12 +6,12 @@
 - 🔭 I’m currently started from [Here_You_Go!!   (www.linkedin.com/in/sairabatool123)
 </p>
 <p align="center">
-- 👨‍💻 All of my task are available at www.linkedin.com/in/sairabatool123](www.linkedin.com/in/sairabatool123)
+- 👨‍💻 All of my task are available at   (www.linkedin.com/in/sairabatool123)
 </p>
 <p align="center">
 - 💬 Ask me about **html5 | CSS3 | Bootstrap**
 </p>
-<p align="center">
+
 - 📫 How to reach me sairabatool787@gmail.com
 </p>
 <h3 align="left">Connect with me:</h3>
