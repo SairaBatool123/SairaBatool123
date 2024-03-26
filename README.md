@@ -1,6 +1,6 @@
 ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=(Tech+Enthusiast+|+Lifelong+Learner+)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm saira batool</h1>
 <h3 align="center">I'm_a_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_a_Focus_On_Scalability.</h3>
