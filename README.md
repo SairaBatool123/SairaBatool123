@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
 <p align="center">
 - 🔭 I’m currently started from [Here_You_Go!!]   (www.linkedin.com/in/sairabatool123)
-  </p>
+</p>
 <p align="center">
 - 👨‍💻 All of my task are available at [www.linkedin.com/in/sairabatool123](www.linkedin.com/in/sairabatool123)
-  </p>
+</p>
 <p align="center">
 - 💬 Ask me about **html5 | CSS3 | Bootstrap**
-  </p>
+</p>
 <p align="center">
 - 📫 How to reach me **sairabatool787@gmail.com**
 </p>
