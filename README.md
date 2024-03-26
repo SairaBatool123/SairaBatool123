@@ -1,4 +1,4 @@
-![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/istockphoto-1502289545-612x612.jpg)
+
 <h1 align="center">Hi 👋, I'm saira batool</h1>
 <h3 align="center">I'm_a_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_a_Focus_On_Scalability.</h3>
 
@@ -9,7 +9,7 @@
 <p align="center">
 - 👨‍💻 All of my task are available at   (www.linkedin.com/in/sairabatool123)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsoftware-development-banner&psig=AOvVaw3Aiztyytc93gXIzT1Gdlhd&ust=1711572818224000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj32d_nkoUDFQAAAAAdAAAAABAE
+![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/istockphoto-1502289545-612x612.jpg)
 - 💬 Ask me about **html5 | CSS3 | Bootstrap**
 
 - 📫 How to reach me sairabatool787@gmail.com
