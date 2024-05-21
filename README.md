@@ -16,10 +16,7 @@
 
   
 <hr>
-<h3 align="center"> Connected Here 🔗 :</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
-
-
+<h1 align="center"> Connected Here 🔗 :</h1>
 
 <p align="center">
 	<a href="github.com/sairabatool123" target="blank"><img align="center"
