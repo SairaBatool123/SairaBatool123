@@ -78,9 +78,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&locale=en" alt="sairabatool123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&locale=en" alt="sairabatool123" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p>
 <p align="center">
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&include_all_commits=true" alt="sairabatool123" /></a><p> | 
 	<br>	<br>
