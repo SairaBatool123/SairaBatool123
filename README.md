@@ -17,16 +17,17 @@
   
 <hr>
 <h3 align="center"> Connected Here 🔗 :</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/sairabatool123/" target="blank"><img align="center"
+<p align="center">
+	<a href="github.com/sairabatool123" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=github" style="margin:10px"
+			alt="Github" height="50" width="50" /></a>
+	<a href="https://www.linkedin.com/in/sairabatool123/" target="blank"><img align="center" style="margin:10px"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
 <!-- 	<a href="https://leetcode.com/sairabatool" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
 			alt="leetcode" height="50" width="50" /></a> -->
 	<a href="https://email.com/sairabatool787@gmail.com" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
-	<a href="github.com/sairabatool123" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=github"
-			alt="Github" height="50" width="50" /></a>
+	
 </p>
 <hr>
 
