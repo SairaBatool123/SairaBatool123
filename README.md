@@ -16,7 +16,7 @@
 
   
 <hr>
-<center><h3> Connected Here 🔗 :</h3></center>
+<h3 align="center"> Connected Here 🔗 :</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/sairabatool123/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
@@ -25,8 +25,8 @@
 	<a href="https://email.com/sairabatool787@gmail.com" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
 	<a href="github.com/sairabatool123" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="50" width="50" /></a>
+			src="https://skillicons.dev/icons?i=github"
+			alt="Github" height="50" width="50" /></a>
 </p>
 <hr>
 
