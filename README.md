@@ -17,6 +17,7 @@
   
 <hr>
 <h3 align="center"> Connected Here 🔗 :</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
 
 
 
