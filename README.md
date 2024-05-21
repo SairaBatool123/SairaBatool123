@@ -42,7 +42,17 @@
   </a>
 </p>
 
+hr>
 
+<h2 align="left">Languages and Tools:</h2>
+<p align='center'>
+    <img src="https://skillicons.dev/icons?i=git,github,c,css,js" />
+<!--    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>-->
+   <img src="https://skillicons.dev/icons?i=firebase,figma"/> 
+   <img src="https://skillicons.dev/icons?i=bootstrap,python,tailwind"/>
+</p>
+
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
