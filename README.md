@@ -82,13 +82,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&locale=en" alt="sairabatool123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&include_all_commits=true" alt="sairabatool123" /></a> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p> |
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&include_all_commits=true" alt="sairabatool123" /></a> | <a href="https://github.com/sairabatool123/github-readme-stats"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></a> |
 
 
 <br>
-*NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on GitHub.
+*NOTE:*
+Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on GitHub.
 <br>
 <a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairabatool123&layout=compact&theme=buefy&hide_border=true" /></a>
 <hr/>
