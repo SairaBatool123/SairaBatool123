@@ -16,7 +16,7 @@
 
   
 <hr>
-<h1 align="center"> Connected Here 🔗 :</h1>
+<h2 align="center"> Connected Here 🔗 :</h2>
 
 <p align="center">
 	<a href="github.com/sairabatool123" target="blank"><img align="center"
