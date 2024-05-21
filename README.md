@@ -81,8 +81,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&locale=en" alt="sairabatool123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&include_all_commits=true" alt="sairabatool123" /></a> | <a href="https://github.com/sairabatool123/github-readme-stats"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></a> |
+<p align="center">
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&include_all_commits=true" alt="sairabatool123" /></a><p> | 
+<p align="center"> 
+| <a href="https://github.com/sairabatool123/github-readme-stats"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></a><p> |
 
 
 <br>
