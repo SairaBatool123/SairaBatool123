@@ -42,11 +42,11 @@
   </a>
 </p>
 
-hr>
+<hr>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,c,css,js" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,html,css,js" />
 <!--    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>-->
    <img src="https://skillicons.dev/icons?i=firebase,figma"/> 
    <img src="https://skillicons.dev/icons?i=bootstrap,python,tailwind"/>
