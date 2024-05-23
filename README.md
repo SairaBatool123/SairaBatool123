@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm_a_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_a_Focus_On_Scalability.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
 
 - 🔭 I’m currently started from [Here_You_Go!!](www.linkedin.com/in/sairabatool123)
 
@@ -84,8 +84,8 @@
 
 
 <br>
-*NOTE:*
-Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on GitHub.
+NOTE:
+<i>Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on GitHub.</i>
 <br>
 <a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairabatool123&layout=compact&theme=buefy&hide_border=true" /></a>
 <hr/>
