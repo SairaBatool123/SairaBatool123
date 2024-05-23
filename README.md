@@ -86,8 +86,8 @@
 <br>
 
 <i>✨Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on GitHub.✨</i>
-<br>
-<a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairabatool123&layout=compact&theme=buefy&hide_border=true" /></a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairabatool123&layout=compact&theme=buefy&hide_border=true" /></a></p>
 <hr/>
 
 <h3 align="center" >Thanks For Your Support! ❤️</h3>
