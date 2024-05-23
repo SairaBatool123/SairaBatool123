@@ -44,7 +44,7 @@
 
 <hr> -->
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="center">LANGUAGE AND TOOLS:</h2>
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,c,html,css,js" />
 <!--    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>-->
