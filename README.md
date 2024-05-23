@@ -1,8 +1,7 @@
-![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+<img src="https://cdn.dribbble.com/users/612275/screenshots/4215505/ezgif.com-optimize__2___2_.gif"/>
 <br>
-<img src="https://directlinedev.com/media/simple_photos/0000/photo_275.gif?_=1493724751"/>
-
-<h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
+<!-- ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+<h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
 
