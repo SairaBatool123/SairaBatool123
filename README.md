@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
 
-<h3 align="center">I'm_a_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_a_Focus_On_Scalability.</h3>
+<h3 align="center"><b>I'm_A_Frontend_Developer_Passionate_About_Building_Innovative_Website_With_A_Focus_On_Scalability.</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
 
