@@ -1,6 +1,6 @@
 ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 <br>
-<img link="https://directlinedev.com/media/simple_photos/0000/photo_275.gif?_=1493724751">
+<img src="https://directlinedev.com/media/simple_photos/0000/photo_275.gif?_=1493724751"/>
 
 <h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
 
