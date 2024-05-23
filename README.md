@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/1.gif"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_YcPare0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif"/>
 <br>
 <!-- ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 <h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1> -->
