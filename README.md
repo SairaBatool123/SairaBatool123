@@ -1,6 +1,6 @@
 ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 
-<h1 align="center">HELLO! 👋 I'M SAIRA BATOOL ☺️ </h1>
+<h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
   
 <hr>
-<h2 align="center">🔗 CONNECTED HERE 🔗 </h2>
+<h2 align="center"><i>🔗 CONNECTED HERE 🔗</i></h2>
 
 <p align="center">
 	<a href="github.com/sairabatool123" target="blank"><img align="center"
@@ -47,7 +47,7 @@
 
 <hr> -->
 
-<h2 align="center">⚙️ LANGUAGE AND TOOLS ⚙️</h2>
+<h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️ </i></h2>
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,c,html,css,js" />
 <!--    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>-->
