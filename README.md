@@ -30,6 +30,9 @@
 			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
 	
 </p>
+
+<hr/>
+
 <!-- <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -81,7 +84,7 @@
 <p align="center">
 <a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sairabatool123&show_icons=true&locale=en" alt="sairabatool123" /></a>
 <a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairabatool123&" alt="sairabatool123" /></a></p>
-
+<hr/>
 
 <br>
 
@@ -90,7 +93,7 @@
 <p align="center"><a href="https://github.com/sairabatool123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairabatool123&layout=compact&theme=buefy&hide_border=true" /></a></p>
 <hr/>
 
-<h3 align="center" >Thanks For Your Support! ❤️</h3>
+<h3 align="center" ><i>Thanks For Your Support! ❤️</i></h3>
 
 
 
