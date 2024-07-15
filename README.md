@@ -23,12 +23,10 @@ I am actively looking for an internship where I can work with experienced profes
 	<a href="github.com/sairabatool123" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=github" 
 			alt="Github" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://email.com/sairabatool787@gmail.com" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
 	<a href="https://www.linkedin.com/in/sairabatool123/" target="blank" ><img align="center" 
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://leetcode.com/u/Saira_Batool/" target="blank"><img align="center" style="border-radius:12px;" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png"
-			alt="leetcode" height="50" width="50" /></a>
+   <a href="https://email.com/sairabatool787@gmail.com" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
 	
 	
 	
