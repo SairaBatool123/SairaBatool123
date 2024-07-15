@@ -27,6 +27,8 @@ I am actively looking for an internship where I can work with experienced profes
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://email.com/sairabatool787@gmail.com" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=gmail" alt="" height="50" width="50" /></a>
+    <a href="https://discord.com/channels/@me" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=discord" alt="" height="50" width="50" /></a>
 	
 	
 	
@@ -50,7 +52,7 @@ I am actively looking for an internship where I can work with experienced profes
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️ </i></h2>
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,c,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,html,css,vs code" />
 <!--    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>-->
    <img src="https://skillicons.dev/icons?i=firebase,figma"/> 
    <img src="https://skillicons.dev/icons?i=bootstrap,python,tailwind"/>
