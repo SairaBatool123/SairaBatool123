@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sairabatool123&label=Profile%20views&color=0e75b6&style=flat" alt="sairabatool123" /> </p>
 
-Hi, I’m Saira Batool. I’m currently studying Full Stack Web and Mobile App Development at Saylani Mass IT Training (SMIT). I have a big passion for technology and enjoy creating websites and mobile apps that are useful and easy to use. Right now, I focus on front-end development. This means I use tools like Tailwind CSS, JavaScript, React.js, and Next.js to build websites that look good and work well for users.
+Hi, I’m Saira Batool Aspiring software Engineering and pursuing web development I’m currently studying Full Stack Web and Mobile App Development at Saylani Mass IT Training (SMIT). I have a big passion for technology and enjoy creating websites and mobile apps that are useful and easy to use. Right now, I focus on front-end development. This means I use tools like Tailwind CSS, JavaScript, React.js, and Next.js to build websites that look good and work well for users.
 
 As a beginner, I am very eager to get real-world experience to improve my skills. My classes and personal projects have taught me a lot about how to build modern websites. I am especially interested in learning more about back-end development and mobile app development. I also want to become skilled in the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js, to become a well-rounded developer.
 
