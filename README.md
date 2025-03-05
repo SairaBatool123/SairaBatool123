@@ -1,7 +1,7 @@
-<p align="center"><img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="300px" width="95%"/></p>
+<!--<p align="center"><img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="300px" width="95%"/></p>-->
 <br>
-<!-- ![logo](https://github.com/SairaBatool123/SairaBatool123/blob/main/banner-software-ui-and-development-for-different-vector-37731495.jpg)
-<h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1> -->
+![logo](Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.gif)
+<h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
 
