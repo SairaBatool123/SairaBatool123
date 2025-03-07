@@ -1,8 +1,5 @@
 <p align="center"><img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="300px" width="95%"/></p>
 <br>
-<p align="center"><img src="<p align="center"><img src="![image](https://github.com/user-attachments/assets/47ab6d98-9fb1-4b3a-bbd4-d2cae0640902)" height="300px" width="95%"/></p>
-
-
 <h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Tech+Enthusiast+|+Lifelong+|+Learner";"Driven+|+Curious+|+Ambitious";)](https://git.io/typing-svg)
