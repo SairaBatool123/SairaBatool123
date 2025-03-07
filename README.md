@@ -1,7 +1,6 @@
 <p align="center"><img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="300px" width="95%"/></p>
 <br>
-<p align="center"><img src="<p align="center"><img src="![image](https://github.com/user-attachments/assets/730d91ee-98c0-4bf9-b71f-c363538fc769)
-" height="300px" width="95%"/></p>
+<p align="center"><img src="<p align="center"><img src="![image](https://github.com/user-attachments/assets/47ab6d98-9fb1-4b3a-bbd4-d2cae0640902)" height="300px" width="95%"/></p>
 
 
 <h1 align="center"><i>HELLO! 👋 I'M SAIRA BATOOL ☺️ </i></h1>
